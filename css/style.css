@@ -1,0 +1,127 @@
+.logo-immage{
+    height: 100px;
+    vertical-align: middle;
+}
+#logo-text{
+    height: 200px;
+    line-height: 150px;
+    border: 1px; 
+    width: 100px;
+    font-size: 60px;
+    font-weight:bold;
+}
+#container-grey{
+    width: 1400px;
+    height: 1000px;
+    margin:  auto;
+    background-color: #d9d9d9;
+    /* opacity: .2; */
+    padding: 50px 10px 10px 230px;
+}
+#container-white{
+    width: 1200px;
+    height: 1000px;
+    background-color: white;
+    border-radius: 20px;
+}
+#button{
+    padding-left: 20px;
+    padding-top: 15px;
+}
+#button1{
+    background-color:#3026d9;
+    height: 50px;
+    width: 120px;
+    border-radius:10px;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+}
+#button2{
+    height: 50px;
+    width: 140px;
+    border-radius:10px;
+    font-size: medium;
+    /* font-weight:500; */
+}
+
+
+.blu{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    background: blue;
+    color:white;
+    border-radius: 8px;
+    font-size: 8px;
+    text-align: center;
+}
+.identificatore1{
+    color:green;
+    background-color: rgb(212, 71, 71);
+    border-radius: 50%;
+    padding: 5px;
+
+}
+ul{
+    list-style: none;
+}
+.viola{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    background: violet;
+    color:white;
+    border-radius: 8px;
+    font-size: 8px;
+    text-align: center;
+}
+.verde{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    background: green;
+    color:white;
+    border-radius: 8px;
+    font-size: 8px;
+    text-align: center;
+}
+
+.giallo{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    background: orange;
+    color:white;
+    border-radius: 8px;
+    font-size: 8px;
+    text-align: center;
+}
+.rosso{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    background: red;
+    color:white;
+    border-radius: 8px;
+    font-size: 8px;
+    text-align: center;
+
+   
+}
+ .verde1{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    background: greenyellow;
+    color:white;
+    border-radius: 8px;
+    font-size: 8px;
+    text-align: center;
+ }
